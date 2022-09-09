@@ -43,7 +43,7 @@ bash b.sh
 ### support us and follow on 
 
 ---
-<a href="https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/channel/UCqVu524dUZOxscEMiou7Iew"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackers Tech-blue?style=for-the-badge&logo=Youtube"></a>
 
 - If need help then msg me on instagram id
 
@@ -59,8 +59,8 @@ Same id for reddit as twitter
 
 ---
 Links
-[Subscribe our YouTube channel link](https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A)
-
+[Subscribe our YouTube channel link](https://www.youtube.com/channel/UCqVu524dUZOxscEMiou7Iew)
+https://www.youtube.com/channel/UCqVu524dUZOxscEMiou7Iew
 
 ### about us 
 Image ![](https://github.com/HackersTech/crispy-bash-utilities/blob/main/IMG_20210814_040338.jpg)
